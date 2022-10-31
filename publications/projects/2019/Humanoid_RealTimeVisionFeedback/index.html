@@ -1,0 +1,65 @@
+---
+layout: default
+title: "Avoiding Obstacles During Push Recovery Using Real-Time Vision Feedback"
+---
+
+<center><h1>{{ page.title }}</h1></center>
+
+<td>
+	<center>
+		IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019<br>
+		<br>
+		<nobr>Hyobin Jeong (1) </nobr> &emsp;&emsp; <nobr> <b>Joon-Ha Kim</b> (1) </nobr> &emsp;&emsp; <nobr> Okkee Sim (1) </nobr> &emsp;&emsp; <nobr> Jun-Ho Oh (1) </nobr><br>
+		<br>
+		<nobr>(1) Korea Advanced Institute of Science and Technology</nobr><br>
+		<br>
+		<img style="vertical-align:middle" src="Humanoid_RealTimeVisionFeedback_teaser.png"  width="100%" height="inherit"/>
+	</center>
+</td>
+
+<br>
+	
+<td>
+	<hr>
+	<h3 style="margin-bottom:10px;">Abstract</h3>
+	This paper introduces an obstacle-avoiding algorithm for bipedal robots,
+	especially in push recovery situations. Typically, There are many algorithms
+	that plan footstep to avoid obstacles based on vision recognition data.
+	However, if the robot is pushed, the planned footprint will change, and thus,
+	there is no guarantee that it will avoid obstacles. Although modified stepping
+	positions can be limited, the robot's stability is not assured. Our proposed
+	algorithm focuses on avoiding obstacles through vision recognition in push recovery
+	situations and generating compensation actions for instability by restricting modified
+	footsteps. We fuse vision feedback with our previous push recovery algorithm, which
+	optimizes the ankle, hip, and stepping strategies. We build simple grid data using
+	vision recognition and apply it to the inequality constraint of the stepping position.
+	We validate the effectiveness of our algorithm using the bipedal platform GAZELLE
+	with the Kinect V2 RGBD sensor.
+</td>
+
+<td>
+	<h3> Paper: [<a href="https://ieeexplore.ieee.org/document/8968009">PDF</a>]</h3>
+</td>
+
+<tr>
+		<h3 style="margin-bottom:10px;">Video</h3>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/FX5iZ0OcKjk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</tr>
+	
+<br>
+<br>
+
+<h3 style="margin-bottom:0px;">Bibtex</h3>
+<pre>
+@INPROCEEDINGS{
+	PushRecoveryVisionJeong2019,
+	author={Jeong, Hyobin and Kim, Joon-Ha and Sim, Okkee and Oh, Jun-Ho},
+	booktitle={2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+	title={Avoiding Obstacles during Push Recovery Using Real-Time Vision Feedback},
+	year={2019},
+	volume={},
+	number={},
+	pages={483-490},
+	doi={10.1109/IROS40897.2019.8968009}
+}
+</pre>

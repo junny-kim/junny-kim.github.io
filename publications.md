@@ -6,7 +6,7 @@ title: Publications
 <p style="color:#898989;"><b> &nbsp; &mdash; 2022 &mdash; </b></p>
 <table border="0" cellpadding="3" cellspacing="10">
 	<tr>
-		<td><a href="./projects/A1Goalkeeping/index.html"><img style="vertical-align:middle" src="./projects/A1Goalkeeping/a1_goalkeeping_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/2022/A1Goalkeeping/index.html"><img style="vertical-align:middle" src="./projects/A1Goalkeeping/a1_goalkeeping_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>STEP: State Estimator for Legged Robots Using a Preintegrated Foot Velocity Factor</b> <br> 
 			Yeeun Kim, Byeongho Yu, Eungchang Mason Lee, <b>Joon-Ha Kim</b>, Hae-Won Park, and Hyun Myung<br> 
@@ -21,6 +21,16 @@ title: Publications
 <p style="color:#898989;"><b>&nbsp; &mdash; 2021 &mdash; </b></p>
 <table border="0" cellpadding="3" cellspacing="10">
 
+<tr>
+		<td><a href="./projects/2021/StateEstimation_on_Dynamic_Contact/index.html"><img style="vertical-align:middle" src="./projects/2021/StateEstimation_on_Dynamic_Contact/a1_goalkeeping_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td>
+			<b>STEP: State Estimator for Legged Robots Using a Preintegrated Foot Velocity Factor</b> <br> 
+			Yeeun Kim, Byeongho Yu, Eungchang Mason Lee, <b>Joon-Ha Kim</b>, Hae-Won Park, and Hyun Myung<br> 
+			<em> IEEE Robotics and Automation Letters, published online, 2022 </em> <br> 
+			[<a href="./projects/A1Goalkeeping/index.html">Project page</a>] [<a href="./projects/A1Goalkeeping/2022_A1Goalkeeping.pdf">Paper</a>]
+		</td>
+	</tr>
+
 </table>
 
 <p style="color:#898989;"><b>&nbsp; &mdash; 2020 &mdash; </b></p>
@@ -30,6 +40,16 @@ title: Publications
 
 <p style="color:#898989;"><b>&nbsp; &mdash; 2019 &mdash; </b></p>
 <table border="0" cellpadding="3" cellspacing="10">
+
+<tr>
+		<td><a href="./projects/2019/Humanoid_RealTimeVisionFeedback/index.html"><img style="vertical-align:middle" src="./projects/2021/Humanoid_RealTimeVisionFeedback/Humanoid_RealTimeVisionFeedback_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td>
+			<b>Avoiding Obstacles During Push Recovery Using Real-Time Vision Feedback</b> <br> 
+			Hyobin Jeong, <b>Joon-Ha Kim</b>, Okkee Sim, and Jun-Ho Oh<br> 
+			<em> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019 </em> <br> 
+			[<a href="./2019/Humanoid_RealTimeVisionFeedback/index.html">Project page</a>] [<a href="https://ieeexplore.ieee.org/document/8968009">Paper</a>]
+		</td>
+	</tr>
 
 </table>
 
