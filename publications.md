@@ -8,9 +8,9 @@ title: Publications
 	<tr>
 		<td><a href="./projects/A1Goalkeeping/index.html"><img style="vertical-align:middle" src="./projects/A1Goalkeeping/a1_goalkeeping_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
 		<td>
-			<b>Creating a Dynamic Quadrupedal Robotic Goalkeeper with Reinforcement Learning</b> <br> 
-			Xiaoyu Huang, Zhongyu Li, Yanzhen Xiang, Yiming Ni, Yufeng Chi, Yunhao Li, Lizhi Yang, <b>Xue Bin Peng</b>, and Koushil Sreenath<br> 
-			<em> arXiv Preprint 2022 </em> <br> 
+			<b>STEP: State Estimator for Legged Robots Using a Preintegrated Foot Velocity Factor</b> <br> 
+			Yeeun Kim, Byeongho Yu, Eungchang Mason Lee, <b>Joon-Ha Kim</b>, Hae-Won Park, and Hyun Myung<br> 
+			<em> IEEE Robotics and Automation Letters, published online, 2022 </em> <br> 
 			[<a href="./projects/A1Goalkeeping/index.html">Project page</a>] [<a href="./projects/A1Goalkeeping/2022_A1Goalkeeping.pdf">Paper</a>]
 		</td>
 	</tr>
@@ -66,7 +66,7 @@ title: Publications
 		<td>
 			<b>M.Sc. Thesis</b> <br> 
 			<b>Developing Locomotion Skills with Deep Reinforcement Learning</b> <br> 
-			<em> University of British Columbia 2017 </em> <br> 
+			<em> Korea Advanced Institute of Science and Technology 2019 </em> <br> 
 			[<a href="projects/MSc_Thesis/index.html">Project page</a>] [<a href="projects/MSc_Thesis/MSc_Thesis.pdf">Thesis</a>]
 		</td>
 	</tr>
