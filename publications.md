@@ -6,7 +6,7 @@ title: Publications
 <p style="color:#898989;"><b> &nbsp; &mdash; 2022 &mdash; </b></p>
 <table border="0" cellpadding="3" cellspacing="10">
 	<tr>
-		<td><a href="./projects/2022/A1Goalkeeping/index.html"><img style="vertical-align:middle" src="./projects/A1Goalkeeping/a1_goalkeeping_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/2022/STEP/index.html"><img style="vertical-align:middle" src="./projects/2022/STEP/a1_goalkeeping_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>STEP: State Estimator for Legged Robots Using a Preintegrated Foot Velocity Factor</b> <br> 
 			Yeeun Kim, Byeongho Yu, Eungchang Mason Lee, <b>Joon-Ha Kim</b>, Hae-Won Park, and Hyun Myung<br> 
@@ -22,12 +22,12 @@ title: Publications
 <table border="0" cellpadding="3" cellspacing="10">
 
 <tr>
-		<td><a href="./projects/2021/StateEstimation_on_Dynamic_Contact/index.html"><img style="vertical-align:middle" src="./projects/2021/StateEstimation_on_Dynamic_Contact/a1_goalkeeping_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/2021/StateEstimation_on_Dynamic_Contact/index.html"><img style="vertical-align:middle" src="./projects/2021/StateEstimation_on_Dynamic_Contact/StateEstimation_on_Dynamic_Contact_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
 		<td>
-			<b>STEP: State Estimator for Legged Robots Using a Preintegrated Foot Velocity Factor</b> <br> 
-			Yeeun Kim, Byeongho Yu, Eungchang Mason Lee, <b>Joon-Ha Kim</b>, Hae-Won Park, and Hyun Myung<br> 
-			<em> IEEE Robotics and Automation Letters, published online, 2022 </em> <br> 
-			[<a href="./projects/A1Goalkeeping/index.html">Project page</a>] [<a href="./projects/A1Goalkeeping/2022_A1Goalkeeping.pdf">Paper</a>]
+			<b>Legged Robot State Estimation With Dynamic Contact Event Information</b> <br> 
+			<b>Joon-Ha Kim</b>, Seungwoo Hong, Gwanghyeon Ji, Seunghun Jeon, Jemin Hwangbo, Jun-Ho Oh, Hae-Won Park<br> 
+			<em> IEEE Robotics and Automation Letters, published online, 2021 </em> <br> 
+			[<a href="./projects/2021/StateEstimation_on_Dynamic_Contact/index.html">Project page</a>] [<a href="https://ieeexplore.ieee.org/abstract/document/9468900">Paper</a>]
 		</td>
 	</tr>
 

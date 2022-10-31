@@ -1,19 +1,19 @@
 ---
 layout: default
-title: "Creating a Dynamic Quadrupedal Robotic Goalkeeper with Reinforcement Learning"
+title: "Legged Robot State Estimation With Dynamic Contact Event Information"
 ---
 
 <center><h1>{{ page.title }}</h1></center>
 
 <td>
 	<center>
-		arXiv Preprint 2022<br>
+		IEEE Robotics and Automation Letters, published online, 2021<br>
 		<br>
-		<nobr>Xiaoyu Huang (2) </nobr> &emsp;&emsp; <nobr> Zhongyu Li (1) </nobr> &emsp;&emsp; <nobr> Yanzhen Xiang (1) </nobr> &emsp;&emsp; <nobr> Yiming Ni (1) </nobr> &emsp;&emsp; <nobr> Yufeng Chi (1) </nobr> &emsp;&emsp; <nobr> Yunhao Li (1) </nobr> &emsp;&emsp; <nobr> Lizhi Yang (1) </nobr> &emsp;&emsp; <nobr> Xue Bin Peng (3) </nobr> &emsp;&emsp; <nobr> and Koushil Sreenath (1) </nobr><br>
+		<nobr><b>Joon-Ha Kim</b> (1) </nobr>  &emsp;&emsp; <nobr> Seungwoo Hong (1) </nobr> &emsp;&emsp; <nobr> Gwanghyeon Ji (1) </nobr> &emsp;&emsp; <nobr> Seunghun Jeon (1) </nobr> &emsp;&emsp; <nobr> Jemin Hwangbo (1) </nobr> &emsp;&emsp; <nobr> Jun-Ho Oh (1) </nobr> &emsp;&emsp; <nobr> Hae-Won Park (1) </nobr><br>
 		<br>
-		<nobr>(1) Georgia Institute of Tecnology</nobr> &emsp;&emsp; <nobr>(2) University of California, Berkeley</nobr> &emsp;&emsp; <nobr>(3) Simon Fraser University</nobr><br>
+		<nobr>(1) Korea Advanced Institute of Science and Technology</nobr><br>
 		<br>
-		<img style="vertical-align:middle" src="a1_goalkeeping_teaser.png"  width="100%" height="inherit"/>		
+		<img style="vertical-align:middle" src="StateEstimation_on_Dynamic_Contact_teaser.png"  width="100%" height="inherit"/>
 	</center>
 </td>
 
@@ -22,49 +22,46 @@ title: "Creating a Dynamic Quadrupedal Robotic Goalkeeper with Reinforcement Lea
 <td>
 	<hr>
 	<h3 style="margin-bottom:10px;">Abstract</h3>
-	We present a reinforcement learning (RL) framework that enables quadrupedal
-	robots to perform soccer goalkeeping tasks in the real world. Soccer
-	goalkeeping using quadrupeds is a challenging problem, that combines highly
-	dynamic locomotion with precise and fast non-prehensile object (ball)
-	manipulation. The robot needs to react to and intercept a potentially flying
-	ball using dynamic locomotion maneuvers in a very short amount of time,
-	usually less than one second. In this paper, we propose to address this
-	problem using a hierarchical model-free RL framework. The first component
-	of the framework contains multiple control policies for distinct locomotion
-	skills, which can be used to cover different regions of the goal. Each
-	control policy enables the robot to track random parametric endeffector
-	trajectories while performing one specific locomotion skill, such as jump,
-	dive, and sidestep. These skills are then utilized by the second part of
-	the framework which is a high-level planner to determine a desired skill
-	and end-effector trajectory in order to intercept a ball flying to different
-	regions of the goal. We deploy the proposed framework on a Mini Cheetah
-	quadrupedal robot and demonstrate the effectiveness of our framework for
-	various agile interceptions of a fast-moving ball in the real world.
+	This letter presents a state estimation algorithm for the legged robot
+	by defining the problem as a Maximum A Posteriori (MAP) estimation problem
+	and solving the problem with the Gauss-Newton algorithm. Moreover, marginalization
+	by the Schur Complement method is adopted to make a fixed size problem. Each
+	component of the cost function and its Jacobian are derived utilizing the SO(3)
+	manifold structure, while we reparameterize the state with nominal state and variation
+	to make linear algebra and vector calculus applied properly. Furthermore, a slip
+	rejection method is proposed to reduce the erroneous effect of fault modeling of
+	kinematics models. The proposed algorithm is verified by comparison with the
+	Invariant Extended Kalman Filter (IEKF) in real robot experiments on various environments.
 </td>
 
 <td>
-	<h3> Paper: [<a href="2022_A1Goalkeeping.pdf">PDF</a>] &nbsp; &nbsp; &nbsp; Media: [<a href="https://spectrum.ieee.org/football-robot-mini-cheetah">IEEE Spectrum</a>] &nbsp; &nbsp; &nbsp; Preprint: [<a href="https://arxiv.org/abs/2210.04435">arXiv</a>] </h3>
+	<h3> Paper: [<a href="https://ieeexplore.ieee.org/abstract/document/9468900">PDF</a>] </h3>
 </td>
 
 <tr>
-		<h3 style="margin-bottom:10px;">Video</h3>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/iX6OgG67-ZQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<h3 style="margin-bottom:10px;">Video</h3>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/VmiI4ff5rDA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </tr>
-	
+
+<tr>
+	<h3 style="margin-bottom:10px;">Presentation</h3>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/D8quC6xunvU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</tr>
+
 <br>
 <br>
 
 <h3 style="margin-bottom:0px;">Bibtex</h3>
 <pre>
-@article{
-	A1GoalkeepingHuang2022,
-	doi = {10.48550/ARXIV.2210.04435},
-	url = {https://arxiv.org/abs/2210.04435},
-	author = {Huang, Xiaoyu and Li, Zhongyu and Xiang, Yanzhen and Ni, Yiming and Chi, Yufeng and Li, Yunhao and Yang, Lizhi and Peng, Xue Bin and Sreenath, Koushil},
-	keywords = {Robotics (cs.RO), Artificial Intelligence (cs.AI), Systems and Control (eess.SY), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering},
-	title = {Creating a Dynamic Quadrupedal Robotic Goalkeeper with Reinforcement Learning},
-	publisher = {arXiv},
-	year = {2022},
-	copyright = {arXiv.org perpetual, non-exclusive license}
+@ARTICLE{LeggedStateDynamicKim2021,
+  author={Kim, Joon-Ha and Hong, Seungwoo and Ji, Gwanghyeon and Jeon, Seunghun and Hwangbo, Jemin and Oh, Jun-Ho and Park, Hae-Won},
+  journal={IEEE Robotics and Automation Letters},
+  title={Legged Robot State Estimation With Dynamic Contact Event Information},
+  year={2021},
+  volume={6},
+  number={4},
+  pages={6733-6740},
+  doi={10.1109/LRA.2021.3093876}
 }
+
 </pre>
