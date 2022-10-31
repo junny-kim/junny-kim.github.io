@@ -6,12 +6,12 @@ title: Publications
 <p style="color:#898989;"><b> &nbsp; &mdash; 2022 &mdash; </b></p>
 <table border="0" cellpadding="3" cellspacing="10">
 	<tr>
-		<td><a href="projects/A1Goalkeeping/index.html"><img style="vertical-align:middle" src="projects/A1Goalkeeping/a1_goalkeeping_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/A1Goalkeeping/index.html"><img style="vertical-align:middle" src="./projects/A1Goalkeeping/a1_goalkeeping_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>Creating a Dynamic Quadrupedal Robotic Goalkeeper with Reinforcement Learning</b> <br> 
 			Xiaoyu Huang, Zhongyu Li, Yanzhen Xiang, Yiming Ni, Yufeng Chi, Yunhao Li, Lizhi Yang, <b>Xue Bin Peng</b>, and Koushil Sreenath<br> 
 			<em> arXiv Preprint 2022 </em> <br> 
-			[<a href="projects/A1Goalkeeping/index.html">Project page</a>] [<a href="projects/A1Goalkeeping/2022_A1Goalkeeping.pdf">Paper</a>]
+			[<a href="./projects/A1Goalkeeping/index.html">Project page</a>] [<a href="./projects/A1Goalkeeping/2022_A1Goalkeeping.pdf">Paper</a>]
 		</td>
 	</tr>
 
