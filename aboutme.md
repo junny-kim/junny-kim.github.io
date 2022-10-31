@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About me
+subtitle: Joon-Ha (Junny) Kim
 ---
-#Joon-Ha (Junny) Kim
 
 [comment]: <> (<img src="img/Junny_Image.jpg" width="100" height="100">)
 ![MyImage](./img/Junny_Image.png)
