@@ -78,12 +78,12 @@ title: Publications
 <table border="0" cellpadding="3" cellspacing="10">
 
 	<tr>
-		<td><a href="./projects/MSc_Thesis/index.html"><img style="vertical-align:middle" src="./projects/MSc_Thesis/MSc_Thesis_thumb.png"  width="150" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/Thesis/MSc_Thesis/index.html"><img style="vertical-align:middle" src="./projects/Thesis/MSc_Thesis/MSc_Thesis_thumb.png"  width="150" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>M.Sc. Thesis</b> <br> 
 			<b>Real time A* Adaptive Action Set Footstep Planning with Human Locomotion Energy Approximations Considering Angle Difference for Heuristic Function</b> <br> 
 			<em> Korea Advanced Institute of Science and Technology 2019 </em> <br> 
-			[<a href="./projects/MSc_Thesis/index.html">Project page</a>] [<a href="./projects/MSc_Thesis/MSc_Thesis.pdf">Thesis</a>]
+			[<a href="./projects/Thesis/MSc_Thesis/index.html">Project page</a>] [<a href="./projects/Thesis/MSc_Thesis/MSc_Thesis.pdf">Thesis</a>]
 		</td>
 	</tr>
 </table>
