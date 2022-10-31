@@ -1,0 +1,64 @@
+---
+layout: default
+title: "Real-Time Constrained Nonlinear Model Predictive Control on SO(3) for Dynamic Legged Locomotion"
+---
+
+<center><h1>{{ page.title }}</h1></center>
+
+<td>
+	<center>
+		IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020<br>
+		<br>
+		<nobr>Seungwoo Hong (1) </nobr> &emsp;&emsp; <nobr> <b>Joon-Ha Kim</b> (1) </nobr> &emsp;&emsp; <nobr> Hae-Won Park (1) </nobr><br>
+		<br>
+		<nobr>(1) Korea Advanced Institute of Science and Technology</nobr><br>
+		<br>
+		<img style="vertical-align:middle" src="NMPCSO3_teaser.png"  width="100%" height="inherit"/>
+		<br>
+		<img style="vertical-align:middle" src="award.png"  width="30%" height="inherit"/>
+	</center>
+</td>
+
+<br>
+	
+<td>
+	<hr>
+	<h3 style="margin-bottom:10px;">Abstract</h3>
+	This paper presents a constrained nonlinear model predictive control (NMPC) framework
+	for legged locomotion. The framework assumes a legged robot as a floating base single
+	rigid body with contact forces being applied to the body as external forces. With
+	consideration of orientation dynamics evolving on the rotation manifold SO(3), analytic
+	Jacobians which are necessary for constructing the gradient and the Gauss-Newton Hessian
+	approximation of the objective function are derived. This procedure also includes the
+	reparameterization of the robot orientation on SO(3) to orientation error in the tangent
+	space of that manifold. Obtained gradient and Gauss-Newton Hessian approximation are
+	utilized to solve nonlinear least squares problems formulated from NMPC in a computationally
+	efficient manner. The proposed algorithm is verified on various types of legged robots and gaits in a simulation environment.
+</td>
+
+<td>
+	<h3> Paper: [<a href="https://ieeexplore.ieee.org/abstract/document/9341447">PDF</a>]</h3>
+</td>
+
+<tr>
+		<h3 style="margin-bottom:10px;">Video</h3>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/VONMaUBTPDQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</tr>
+
+<br>
+<br>
+
+<h3 style="margin-bottom:0px;">Bibtex</h3>
+<pre>
+@INPROCEEDINGS{NMPCSO3Hong2020,
+  author={Hong, Seungwoo and Kim, Joon-Ha and Park, Hae-Won},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  title={Real-Time Constrained Nonlinear Model Predictive Control on SO(3) for Dynamic Legged Locomotion},
+  year={2020},
+  volume={},
+  number={},
+  pages={3982-3989},
+  doi={10.1109/IROS45743.2020.9341447}
+}
+
+</pre>
