@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
+#Joon-Ha (Junny) Kim
 
-My name is Inigo Montoya. I have the following qualities:
+[comment]: <> (<img src="img/Junny_Image.jpg" width="100" height="100">)
+![MyImage](./img/Junny_Image.png)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm a Ph.D. candidate in Korea Advanced Institute of Science and Technology, advised by Professor Hae-Won Park. Prior to that, I received an M.Sc from the Korea Advanced Institute of Science and Technology, advised by Professor Jun-Ho Oh. My work lies on dealing with legged robots, with a focus on state estimation, contact implicit trajectory optimization, model predictive control, Lie group theory, and reinforcement learning.
+[[CV](./pdf/CV_Joon_Ha_Kim.pdf)]

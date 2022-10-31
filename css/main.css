@@ -75,6 +75,13 @@ hr.small {
   text-shadow: none;
   background-color: {{ site.hover-col }};
 }
+
+
+img[alt="MyImage"] {
+  max-width:  100px;
+  display: block;
+}
+
 img::selection {
   color: white;
   background: transparent;
