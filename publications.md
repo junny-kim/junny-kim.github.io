@@ -42,12 +42,12 @@ title: Publications
 <table border="0" cellpadding="3" cellspacing="10">
 
 <tr>
-		<td><a href="./projects/2019/Humanoid_RealTimeVisionFeedback/index.html"><img style="vertical-align:middle" src="./projects/2021/Humanoid_RealTimeVisionFeedback/Humanoid_RealTimeVisionFeedback_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/2019/Humanoid_RealTimeVisionFeedback/index.html"><img style="vertical-align:middle" src="./projects/2019/Humanoid_RealTimeVisionFeedback/Humanoid_RealTimeVisionFeedback_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>Avoiding Obstacles During Push Recovery Using Real-Time Vision Feedback</b> <br> 
 			Hyobin Jeong, <b>Joon-Ha Kim</b>, Okkee Sim, and Jun-Ho Oh<br> 
 			<em> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019 </em> <br> 
-			[<a href="./2019/Humanoid_RealTimeVisionFeedback/index.html">Project page</a>] [<a href="https://ieeexplore.ieee.org/document/8968009">Paper</a>]
+			[<a href="./projects/2019/Humanoid_RealTimeVisionFeedback/index.html">Project page</a>] [<a href="https://ieeexplore.ieee.org/document/8968009">Paper</a>]
 		</td>
 	</tr>
 
