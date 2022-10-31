@@ -65,10 +65,10 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+  #rss: false
   email: "kjhpo226@kaist.ac.kr"
   github: junny-kim
-  youtube: kjhpo226
+  youtube: Junny Kim
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
