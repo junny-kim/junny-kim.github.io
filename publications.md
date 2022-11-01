@@ -105,10 +105,11 @@ title: Publications
 
 </table>
 
-<p style="color:#898989;"><b>&nbsp; &mdash; 2018 &mdash; </b></p>
-<table border="0" cellpadding="3" cellspacing="10">
+[comment]: <> (<p style="color:#898989;"><b>&nbsp; &mdash; 2018 &mdash; </b></p>)
 
-</table>
+[comment]: <> (<table border="0" cellpadding="3" cellspacing="10">)
+
+[comment]: <> (</table>)
 
 <br><br><br>
 
