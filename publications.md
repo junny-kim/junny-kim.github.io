@@ -5,7 +5,48 @@ title: Publications
 <h2>Publications</h2>
 <p style="color:#898989;"><b> &nbsp; &mdash; 2022 &mdash; </b></p>
 <table border="0" cellpadding="3" cellspacing="10">
+
 	<tr>
+		<td><a href="./projects/2022/CIDDP/index.html"><img style="vertical-align:middle" src="./projects/2022/CIDDP/CIDDP_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td>
+			<b>Contact-Implicit Differential Dynamic Programming for Model Predictive Control with Relaxed Complementarity Constraints</b> <br> 
+			Gijeong Kim, Dongyun Kang, <b>Joon-Ha Kim</b>, and Hae-Won Park<br> 
+			<em> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022 </em> <br> 
+			[<a href="./projects/2022/CIDDP/index.html">Project page</a>] [TODO]
+		</td>
+	</tr>
+
+	<tr>
+		<td><a href="./projects/2022/DRPD/index.html"><img style="vertical-align:middle" src="./projects/2022/DRPD/DRPD_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td>
+			<b>DRPD, Compact Dual Reduction Ratio Planetary Drive for Actuators of Articulated Robots</b> <br> 
+			Tae-Gyu Song, Young-Ha Shin, Seungwoo Hong, Hyungho Chris Choi, <b>Joon-Ha Kim</b>, and Hae-Won Park<br> 
+			<em> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022 </em> <br> 
+			[<a href="./projects/2022/DRPD/index.html">Project page</a>] [TODO]
+		</td>
+	</tr>
+
+	<tr>
+		<td><a href="./projects/2022/HOUND/index.html"><img style="vertical-align:middle" src="./projects/2022/HOUND/HOUND_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td>
+			<b>Design of KAIST HOUND, a Quadruped Robot Platform for Fast and Efficient Locomotion with Mixed-Integer Nonlinear Optimization of a Gear Train</b> <br> 
+			Young-Ha Shin, Seungwoo Hong, Sangyoung Woo, JongHun Choe, Harim Son, Gijeong Kim, <b>Joon-Ha Kim</b>, KangKyu Lee, Jemin Hwangbo, and Hae-Won Park<br> 
+			<em> IEEE International Conference on Robotics and Automation (ICRA), 2022 </em> <br> 
+			[<a href="./projects/2022/HOUND/index.html">Project page</a>] [<a href="https://ieeexplore.ieee.org/abstract/document/9811755">Paper</a>]
+		</td>
+	</tr>
+
+	<tr>
+		<td><a href="./projects/2022/MCTS/index.html"><img style="vertical-align:middle" src="./projects/2022/MCTS/MCTS_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td>
+			<b>Monte Carlo Tree Search Gait Planner for Non-Gaited Legged System Control</b> <br> 
+			Lorenzo Amatucci, <b>Joon-Ha Kim</b>, Jemin Hwangbo, and Hae-Won Park<br> 
+			<em> IEEE International Conference on Robotics and Automation (ICRA), 2022 </em> <br> 
+			[<a href="./projects/2022/MCTS/index.html">Project page</a>] [<a href="https://ieeexplore.ieee.org/abstract/document/9812421">Paper</a>]
+		</td>
+	</tr>
+
+<tr>
 		<td><a href="./projects/2022/STEP/index.html"><img style="vertical-align:middle" src="./projects/2022/STEP/STEP_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>STEP: State Estimator for Legged Robots Using a Preintegrated Foot Velocity Factor</b> <br> 
