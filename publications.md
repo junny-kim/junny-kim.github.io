@@ -7,7 +7,7 @@ title: Publications
 <table border="0" cellpadding="3" cellspacing="10">
 
 	<tr>
-		<td><a href="./projects/2022/CIDDP/index.html"><img style="vertical-align:middle" src="./projects/2022/CIDDP/CIDDP_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/2022/CIDDP/index.html"><img style="vertical-align:middle" src="./projects/2022/CIDDP/CIDDP_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>Contact-Implicit Differential Dynamic Programming for Model Predictive Control with Relaxed Complementarity Constraints</b> <br> 
 			Gijeong Kim, Dongyun Kang, <b>Joon-Ha Kim</b>, and Hae-Won Park<br> 
@@ -17,7 +17,7 @@ title: Publications
 	</tr>
 
 	<tr>
-		<td><a href="./projects/2022/DRPD/index.html"><img style="vertical-align:middle" src="./projects/2022/DRPD/DRPD_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/2022/DRPD/index.html"><img style="vertical-align:middle" src="./projects/2022/DRPD/DRPD_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>DRPD, Compact Dual Reduction Ratio Planetary Drive for Actuators of Articulated Robots</b> <br> 
 			Tae-Gyu Song, Young-Ha Shin, Seungwoo Hong, Hyungho Chris Choi, <b>Joon-Ha Kim</b>, and Hae-Won Park<br> 
@@ -27,7 +27,7 @@ title: Publications
 	</tr>
 
 	<tr>
-		<td><a href="./projects/2022/HOUND/index.html"><img style="vertical-align:middle" src="./projects/2022/HOUND/HOUND_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/2022/HOUND/index.html"><img style="vertical-align:middle" src="./projects/2022/HOUND/HOUND_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>Design of KAIST HOUND, a Quadruped Robot Platform for Fast and Efficient Locomotion with Mixed-Integer Nonlinear Optimization of a Gear Train</b> <br> 
 			Young-Ha Shin, Seungwoo Hong, Sangyoung Woo, JongHun Choe, Harim Son, Gijeong Kim, <b>Joon-Ha Kim</b>, KangKyu Lee, Jemin Hwangbo, and Hae-Won Park<br> 
@@ -37,7 +37,7 @@ title: Publications
 	</tr>
 
 	<tr>
-		<td><a href="./projects/2022/MCTS/index.html"><img style="vertical-align:middle" src="./projects/2022/MCTS/MCTS_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/2022/MCTS/index.html"><img style="vertical-align:middle" src="./projects/2022/MCTS/MCTS_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>Monte Carlo Tree Search Gait Planner for Non-Gaited Legged System Control</b> <br> 
 			Lorenzo Amatucci, <b>Joon-Ha Kim</b>, Jemin Hwangbo, and Hae-Won Park<br> 
@@ -47,7 +47,7 @@ title: Publications
 	</tr>
 
 <tr>
-		<td><a href="./projects/2022/STEP/index.html"><img style="vertical-align:middle" src="./projects/2022/STEP/STEP_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/2022/STEP/index.html"><img style="vertical-align:middle" src="./projects/2022/STEP/STEP_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>STEP: State Estimator for Legged Robots Using a Preintegrated Foot Velocity Factor</b> <br> 
 			Yeeun Kim, Byeongho Yu, Eungchang Mason Lee, <b>Joon-Ha Kim</b>, Hae-Won Park, and Hyun Myung<br> 
@@ -63,7 +63,7 @@ title: Publications
 <table border="0" cellpadding="3" cellspacing="10">
 
 <tr>
-		<td><a href="./projects/2021/StateEstimation_on_Dynamic_Contact/index.html"><img style="vertical-align:middle" src="./projects/2021/StateEstimation_on_Dynamic_Contact/StateEstimation_on_Dynamic_Contact_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/2021/StateEstimation_on_Dynamic_Contact/index.html"><img style="vertical-align:middle" src="./projects/2021/StateEstimation_on_Dynamic_Contact/StateEstimation_on_Dynamic_Contact_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>Legged Robot State Estimation With Dynamic Contact Event Information</b> <br> 
 			<b>Joon-Ha Kim</b>, Seungwoo Hong, Gwanghyeon Ji, Seunghun Jeon, Jemin Hwangbo, Jun-Ho Oh, and Hae-Won Park<br> 
@@ -78,7 +78,7 @@ title: Publications
 <table border="0" cellpadding="3" cellspacing="10">
 
 <tr>
-		<td><a href="./projects/2020/NMPCSO3/index.html"><img style="vertical-align:middle" src="./projects/2020/NMPCSO3/NMPCSO3_thumb.png"  width="600" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/2020/NMPCSO3/index.html"><img style="vertical-align:middle" src="./projects/2020/NMPCSO3/NMPCSO3_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>Real-Time Constrained Nonlinear Model Predictive Control on SO(3) for Dynamic Legged Locomotion</b> <br> 
 			Seungwoo Hong, <b>Joon-Ha Kim</b>, and Hae-Won Park<br> 
@@ -94,7 +94,7 @@ title: Publications
 <table border="0" cellpadding="3" cellspacing="10">
 
 <tr>
-		<td><a href="./projects/2019/Humanoid_RealTimeVisionFeedback/index.html"><img style="vertical-align:middle" src="./projects/2019/Humanoid_RealTimeVisionFeedback/Humanoid_RealTimeVisionFeedback_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/2019/Humanoid_RealTimeVisionFeedback/index.html"><img style="vertical-align:middle" src="./projects/2019/Humanoid_RealTimeVisionFeedback/Humanoid_RealTimeVisionFeedback_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>Avoiding Obstacles During Push Recovery Using Real-Time Vision Feedback</b> <br> 
 			Hyobin Jeong, <b>Joon-Ha Kim</b>, Okkee Sim, and Jun-Ho Oh<br> 
@@ -119,7 +119,7 @@ title: Publications
 <table border="0" cellpadding="3" cellspacing="10">
 
 	<tr>
-		<td><a href="./projects/Thesis/MSc_Thesis/index.html"><img style="vertical-align:middle" src="./projects/Thesis/MSc_Thesis/MSc_Thesis_thumb.png"  width="200" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/Thesis/MSc_Thesis/index.html"><img style="vertical-align:middle" src="./projects/Thesis/MSc_Thesis/MSc_Thesis_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>M.Sc. Thesis</b> <br> 
 			<b>Real time A* Adaptive Action Set Footstep Planning with Human Locomotion Energy Approximations Considering Angle Difference for Heuristic Function</b> <br> 
