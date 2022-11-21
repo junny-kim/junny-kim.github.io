@@ -103,6 +103,11 @@ img {
   max-width: 100%;
 }
 
+img[alt="MyImage"] {
+  max-width:  100px;
+  display: block;
+}
+
 .linked-section {
   padding-top: 3.75rem;
   margin-top: -1.5625rem;
