@@ -104,7 +104,7 @@ img {
 }
 
 img[alt="MyImage"] {
-  max-width:  100px;
+  max-width:  200px;
   display: block;
 }
 
