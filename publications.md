@@ -26,7 +26,7 @@ title: Publications
 	</tr>
 	
 	<tr>
-		<td><a href="./projects/2023/FootstepPlanning/index.html"><img style="vertical-align:middle" src="./projects/2022/FootstepPlanning/FootstepPlanning_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a></td>
+		<td><a href="./projects/2023/FootstepPlanning/index.html"><img style="vertical-align:middle" src="./projects/2023/FootstepPlanning/FootstepPlanning_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a></td>
 		<td>
 			<b>Contact-Implicit Differential Dynamic Programming for Model Predictive Control with Relaxed Complementarity Constraints</b> <br> 
 			<b>Joon-Ha Kim</b>, Young-Ha Shin, Hyobin Jeong, Jun-Ho Oh, and Hae-Won Park<br> 
