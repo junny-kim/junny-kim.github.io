@@ -22,7 +22,7 @@ title: Publications
 			<b>Seamless Reaction Strategy for Bipedal Locomotion Exploiting Real-Time Nonlinear Model Predictive Control</b> <br> 
 			JongHun Choe, <b>Joon-Ha Kim</b>, Seungwoo Hong, Jinoh Lee, and Hae-Won Park<br> 
 			<em> IEEE Robotics and Automation Letters, published online, 2023 </em> <br> 
-			[<a href="./projects/2023/HumanoidNMPC/index.html">Project page</a>] [<a href="https://ieeexplore.ieee.org/abstract/document/9811755">Paper</a>]
+			[<a href="./projects/2023/HumanoidNMPC/index.html">Project page</a>] [<a href="https://ieeexplore.ieee.org/document/10168974">Paper</a>]
 		</td>
 	</tr>
 	
