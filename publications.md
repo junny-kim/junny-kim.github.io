@@ -2,12 +2,26 @@
 layout: page
 title: Publications
 ---
+
+<style>
+    .publication-container {
+        text-align: center;
+        max-width: 1000px; /* Maximum width for images */
+        margin: 0 auto; /* Center align the container */
+    }
+    .publication-img {
+        max-width: 100%; /* Ensure images do not exceed the container width */
+        min-width: 200px; /* Minimum width for images */
+        border: 1px solid #000; /* Add a border for clarity */
+    }
+</style>
+
 <h2>Publications</h2>
 <p style="color:#898989;"><b> &nbsp; &mdash; 2023 &mdash; </b></p>
 
-<div style="text-align:center;">
+<div class="publication-container">
     <a href="./projects/2023/InvariantSmoother/index.html">
-        <img style="vertical-align:middle" src="./projects/2023/InvariantSmoother/InvariantSmoother_thumb.png" width="inherit" height="inherit" border="1px" alt="" />
+        <img class="publication-img" src="./projects/2023/InvariantSmoother/InvariantSmoother_thumb.png" width="inherit" height="inherit" border="1px" alt="" />
     </a>
 </div>
 
@@ -21,8 +35,8 @@ title: Publications
 
 <hr>
 
-<div style="text-align:center;">
-<a href="./projects/2023/HumanoidNMPC/index.html"><img style="vertical-align:middle" src="./projects/2023/HumanoidNMPC/HumanoidNMPC_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a>
+<div class="publication-container">
+<a href="./projects/2023/HumanoidNMPC/index.html"><img class="publication-img" src="./projects/2023/HumanoidNMPC/HumanoidNMPC_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a>
 </div>
 
 <div>
@@ -34,8 +48,8 @@ title: Publications
 
 <hr>
 
-<div style="text-align:center;">
-<a href="./projects/2023/FootstepPlanning/index.html"><img style="vertical-align:middle" src="./projects/2023/FootstepPlanning/FootstepPlanning_thumb.png"  width="inherit" height="inherit" border="1px" alt="" /></a>
+<div class="publication-container">
+<a href="./projects/2023/FootstepPlanning/index.html"><img class="publication-img" src="./projects/2023/FootstepPlanning/FootstepPlanning_thumb.png"  width="inherit" height="inherit" border="1px" alt="" /></a>
 </div>
 
 <div>
