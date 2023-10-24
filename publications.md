@@ -4,30 +4,49 @@ title: Publications
 ---
 <h2>Publications</h2>
 <p style="color:#898989;"><b> &nbsp; &mdash; 2023 &mdash; </b></p>
-<table border="0" cellpadding="3" cellspacing="10">
-	<tr>
-		<a href="./projects/2023/InvariantSmoother/index.html"><img style="vertical-align:middle" src="./projects/2023/InvariantSmoother/InvariantSmoother_thumb.png"  width="inherit" height="inherit" border="1px" alt="" /></a>
-			<b>Invariant Smoother for Legged Robot State Estimation with Dynamic Contact Event Information</b> <br> 
-			Ziwon Yoon *, <b>Joon-Ha Kim</b> *, and Hae-won Park<br>
-			<em> IEEE Transaction On Robotics, accepted for publication, 2023 </em> <br> 
-			<em> *: These authors contributed equally </em> <br> 
-			[<a href="./projects/2023/InvariantSmoother/index.html">Project page</a>] [TODO]
-	</tr>
-	<tr>
-		<a href="./projects/2023/HumanoidNMPC/index.html"><img style="vertical-align:middle" src="./projects/2023/HumanoidNMPC/HumanoidNMPC_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a>
-			<b>Seamless Reaction Strategy for Bipedal Locomotion Exploiting Real-Time Nonlinear Model Predictive Control</b> <br> 
+
+<div style="text-align:center;">
+    <a href="./projects/2023/InvariantSmoother/index.html">
+        <img style="vertical-align:middle" src="./projects/2023/InvariantSmoother/InvariantSmoother_thumb.png" width="inherit" height="inherit" border="1px" alt="" />
+    </a>
+</div>
+
+<div>
+    <b>Invariant Smoother for Legged Robot State Estimation with Dynamic Contact Event Information</b> <br> 
+    Ziwon Yoon *, <b>Joon-Ha Kim</b> *, and Hae-won Park<br>
+    <em> IEEE Transaction On Robotics, accepted for publication, 2023 </em> <br> 
+    <em> *: These authors contributed equally </em> <br> 
+    [<a href="./projects/2023/InvariantSmoother/index.html">Project page</a>] [TODO]
+</div>
+
+<hr>
+
+<div style="text-align:center;">
+<a href="./projects/2023/HumanoidNMPC/index.html"><img style="vertical-align:middle" src="./projects/2023/HumanoidNMPC/HumanoidNMPC_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a>
+</div>
+
+<div>
+<b>Seamless Reaction Strategy for Bipedal Locomotion Exploiting Real-Time Nonlinear Model Predictive Control</b> <br> 
 			JongHun Choe, <b>Joon-Ha Kim</b>, Seungwoo Hong, Jinoh Lee, and Hae-Won Park<br> 
 			<em> IEEE Robotics and Automation Letters, published online, 2023 </em> <br> 
 			[<a href="./projects/2023/HumanoidNMPC/index.html">Project page</a>] [<a href="https://ieeexplore.ieee.org/document/10168974">Paper</a>]
-	</tr>
-	<tr>
-		<a href="./projects/2023/FootstepPlanning/index.html"><img style="vertical-align:middle" src="./projects/2023/FootstepPlanning/FootstepPlanning_thumb.png"  width="inherit" height="inherit" border="1px" alt="" /></a>
-			<b>Real Time Humanoid Footstep Planning With Foot Angle Difference Consideration for Cost-To-Go Heuristic</b> <br> 
+</div>
+
+<hr>
+
+<div style="text-align:center;">
+<a href="./projects/2023/FootstepPlanning/index.html"><img style="vertical-align:middle" src="./projects/2023/FootstepPlanning/FootstepPlanning_thumb.png"  width="inherit" height="inherit" border="1px" alt="" /></a>
+</div>
+
+<div>
+<b>Real Time Humanoid Footstep Planning With Foot Angle Difference Consideration for Cost-To-Go Heuristic</b> <br> 
 			<b>Joon-Ha Kim</b>, Young-Ha Shin, Hyobin Jeong, Jun-Ho Oh, and Hae-Won Park<br> 
 			<em> IEEE International Conference on Ubiquitous Robots (UR), 2023 </em> <br> 
-			[<a href="./projects/2023/FootstepPlanning/index.html">Project page</a>] [<a href="https://ieeexplore.ieee.org/abstract/document/10202504">Paper</a>]	
-	</tr>
-</table>
+			[<a href="./projects/2023/FootstepPlanning/index.html">Project page</a>] [<a href="https://ieeexplore.ieee.org/abstract/document/10202504">Paper</a>]
+</div>
+
+<hr>
+
 
 <p style="color:#898989;"><b> &nbsp; &mdash; 2022 &mdash; </b></p>
 <table border="0" cellpadding="3" cellspacing="10">
