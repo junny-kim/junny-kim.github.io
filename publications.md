@@ -21,7 +21,7 @@ title: Publications
 
 <div class="publication-container">
     <a href="./projects/2023/InvariantSmoother/index.html">
-        <img class="publication-img" src="./projects/2023/InvariantSmoother/InvariantSmoother_thumb.png" width="inherit" height="inherit" border="1px" alt="" />
+        <img class="publication-img" src="./projects/2023/InvariantSmoother/InvariantSmoother_thumb.png" alt="" />
     </a>
 </div>
 
@@ -36,7 +36,7 @@ title: Publications
 <hr>
 
 <div class="publication-container">
-<a href="./projects/2023/HumanoidNMPC/index.html"><img class="publication-img" src="./projects/2023/HumanoidNMPC/HumanoidNMPC_thumb.png"  width="200px" height="inherit" border="1px" alt="" /></a>
+<a href="./projects/2023/HumanoidNMPC/index.html"><img class="publication-img" src="./projects/2023/HumanoidNMPC/HumanoidNMPC_thumb.png" alt="" /></a>
 </div>
 
 <div>
@@ -49,7 +49,7 @@ title: Publications
 <hr>
 
 <div class="publication-container">
-<a href="./projects/2023/FootstepPlanning/index.html"><img class="publication-img" src="./projects/2023/FootstepPlanning/FootstepPlanning_thumb.png"  width="inherit" height="inherit" border="1px" alt="" /></a>
+<a href="./projects/2023/FootstepPlanning/index.html"><img class="publication-img" src="./projects/2023/FootstepPlanning/FootstepPlanning_thumb.png" alt="" /></a>
 </div>
 
 <div>
