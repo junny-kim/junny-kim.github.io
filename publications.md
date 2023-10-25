@@ -18,7 +18,7 @@ title: Publications
 
 <h2>Publications</h2>
 <p style="color:#898989;"><b> &nbsp; &mdash; 2023 &mdash; </b></p>
-<hr>
+
 <div class="publication-container">
     <a href="./projects/2023/InvariantSmoother/index.html">
         <img class="publication-img" src="./projects/2023/InvariantSmoother/InvariantSmoother_thumb.png" alt="" />
@@ -61,10 +61,14 @@ title: Publications
 
 <hr>
 
+<br><br><br>
+
+<hr>
+
 
 <p style="color:#898989;"><b> &nbsp; &mdash; 2022 &mdash; </b></p>
 
-<hr>
+
 <div class="publication-container">
     <a href="./projects/2022/CIDDP/index.html"><img class="publication-img" src="./projects/2022/CIDDP/CIDDP_thumb.png" alt="" /></a>
 </div>
@@ -130,11 +134,15 @@ title: Publications
 
 <hr>
 
+<br><br><br>
+
+<hr>
+
 
 <p style="color:#898989;"><b>&nbsp; &mdash; 2021 &mdash; </b></p>
 
 
-<hr>
+
 
 <div class="publication-container">
 <a href="./projects/2021/StateEstimation_on_Dynamic_Contact/index.html"><img class="publication-img" src="./projects/2021/StateEstimation_on_Dynamic_Contact/StateEstimation_on_Dynamic_Contact_thumb.png" alt="" /></a>
@@ -149,9 +157,13 @@ title: Publications
 
 <hr>
 
-<p style="color:#898989;"><b>&nbsp; &mdash; 2020 &mdash; </b></p>
+<br><br><br>
 
 <hr>
+
+<p style="color:#898989;"><b>&nbsp; &mdash; 2020 &mdash; </b></p>
+
+
 
 <div class="publication-container">
 <a href="./projects/2020/NMPCSO3/index.html"><img class="publication-img" src="./projects/2020/NMPCSO3/NMPCSO3_thumb.png" alt="" /></a>
@@ -167,10 +179,12 @@ title: Publications
 
 <hr>
 
-
-<p style="color:#898989;"><b>&nbsp; &mdash; 2019 &mdash; </b></p>
+<br><br><br>
 
 <hr>
+<p style="color:#898989;"><b>&nbsp; &mdash; 2019 &mdash; </b></p>
+
+
 
 <div class="publication-container">
 <a href="./projects/2019/Humanoid_RealTimeVisionFeedback/index.html"><img class="publication-img" src="./projects/2019/Humanoid_RealTimeVisionFeedback/Humanoid_RealTimeVisionFeedback_thumb.png" alt="" /></a>
@@ -193,7 +207,7 @@ title: Publications
 
 <p style="color:#898989;"><b>&nbsp; &mdash; M.Sc.Thesis &mdash; </b></p>
 
-<hr>
+
 
 <div class="publication-container">
 <a href="./projects/Thesis/MSc_Thesis/index.html"><img class="publication-img" src="./projects/Thesis/MSc_Thesis/MSc_Thesis_thumb.png" alt="" /></a>
