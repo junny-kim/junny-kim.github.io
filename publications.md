@@ -30,8 +30,10 @@ title: Publications
     Ziwon Yoon *, <b>Joon-Ha Kim</b> *, and Hae-won Park<br>
     <em> IEEE Transaction On Robotics, accepted for publication, 2023 </em> <br> 
     <em> *: These authors contributed equally </em> <br> 
-    [<a href="./projects/2023/InvariantSmoother/index.html">Project page</a>] [TODO]
+    [<a href="./projects/2023/InvariantSmoother/index.html">Project page</a>] [<a href="https://ieeexplore.ieee.org/document/10301546">Paper</a>]
 </div>
+
+
 
 <hr>
 
