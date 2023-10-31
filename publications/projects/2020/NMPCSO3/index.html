@@ -2,7 +2,15 @@
 layout: default
 title: "Real-Time Constrained Nonlinear Model Predictive Control on SO(3) for Dynamic Legged Locomotion"
 ---
-
+<style>
+	.video-container {
+		position: relative;
+		width: 100%;
+		padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+		margin-bottom: 20px; /* Adds space below the video */
+		overflow: hidden;
+	}
+</style>
 <center><h1>{{ page.title }}</h1></center>
 
 <td>
@@ -33,8 +41,10 @@ title: "Real-Time Constrained Nonlinear Model Predictive Control on SO(3) for Dy
 </td>
 
 <tr>
-		<h3 style="margin-bottom:10px;">Video</h3>
-		<iframe width="100%" height="inherit" src="https://www.youtube.com/embed/VONMaUBTPDQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<h3 style="margin-bottom:10px;">Video</h3>
+	<div class="video-container">
+		<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/VONMaUBTPDQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	</div>
 </tr>
 
 <br>
