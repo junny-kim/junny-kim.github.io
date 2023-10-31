@@ -28,7 +28,7 @@ title: Publications
 <div>
     <b>Invariant Smoother for Legged Robot State Estimation with Dynamic Contact Event Information</b> <br> 
     Ziwon Yoon *, <b>Joon-Ha Kim</b> *, and Hae-won Park<br>
-    <em> IEEE Transaction On Robotics, accepted for publication, 2023 </em> <br> 
+    <em> IEEE Transaction On Robotics, published online, 2023 </em> <br> 
     <em> *: These authors contributed equally </em> <br> 
     [<a href="./projects/2023/InvariantSmoother/index.html">Project page</a>] [<a href="https://ieeexplore.ieee.org/document/10301546">Paper</a>]
 </div>
